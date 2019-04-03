@@ -92,11 +92,13 @@ namespace super8Ball
               System.Console.WriteLine("{0}", text);
               break;
             }
-          // case 5:
-          //   {
-          //     System.Console.WriteLine("Out of over 7 billion people on this planet, you decided to ask me?");
-          //     break;
-          //   }
+          case 5:
+            {
+              string text = System.IO.File.ReadAllText(@"../6.txt");
+              System.Console.WriteLine("{0}", text);
+              // System.Console.WriteLine("Out of over 7 billion people on this planet, you decided to ask me?");
+              break;
+            }
           // case 6:
           //   {
           //     System.Console.WriteLine("I'm literally an ASCII 8 ball. What are you expecting, the answer to life?");

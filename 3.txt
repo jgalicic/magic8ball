@@ -1,30 +1,49 @@
+
+Conversation opened. 1 unread message.
+
+
+Skip to content
+Using Gmail with screen readers
+1 of 11,415
+files
+Inbox
+x
+
+Justin Galicic <jgalicic@gmail.com>
+Attachments
+2:30 PM (2 minutes ago)
+to raymondxu92
+
+
+4 Attachments
+
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNK0kdol:;,,'.......',;:cloxk0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMWX0xl:'..                         ..,:ox0NWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMWXko;..                                     .':oOXWMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMW0d:.                                               'cxKWMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMWWWKd;.                                                     .:xXWMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMXk:.                            3                              .cONMMMMMMMMMMMMMMMM
+MMMMMMMMMMMMMMMMMXk:.                                                           .cONMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMWWXd,                                                                .;xNMMMMMMMMMMMMMM
 MMMMMMMMMMMMMXo.                                                                     ,xNMMMMMMMMMMMM
 MMMMMMMMMMWNx,                                                                         ;kNWMMMMMMMMM
-MMMMMMMMMW0:                  __        __   _                                          .lKMMMMMMMMM
-MMMMMMMMNx.                   \ \      / /__| | ___ ___  _ __ ___   ___                   ,OWMMMMMMM
-MMMMMMMXc.                     \ \ /\ / / _ \ |/ __/ _ \| '_ ` _ \ / _ \                   .dNMMMMMM
-MMMMMM0;                        \ V  V /  __/ | (__ (_) | | | | | |  __/                     cXMMMMM
-MMMMM0,                          \_/\_/ \___|_|\___\___/|_| |_| |_|\___|                      cXMMMM
+MMMMMMMMMW0:                              _  _    ___  _  _                             .lKMMMMMMMMM
+MMMMMMMMNx.                              | || |  / _ \| || | _                            ,OWMMMMMMM
+MMMMMMMXc.                               | || |_| | | | || |__)                            .dNMMMMMM
+MMMMMM0;                                 |__   _| |_| |__   _|                               cXMMMMM
+MMMMM0,                                     |_|  \___/   |_|(_)                               cXMMMM
 MMMM0,                                                                                         cXMMM
 MMMX:                                                                                           lNMM
-MMNo                                                                                            .xWM
-MWk.                                                                                             ,0M
-MX:                                                                                               lW
-Mk.                                                                                               '0
-Wl                                                                                                .d
+MMNo                  _   _       _ _ ____       __                                             .xWM
+MWk.                 | \ | |_   _| | |  _ \ ___ / _| ___ _ __ ___ _ __   ___ ___                 ,0M
+MX:                  |  \| | | | | | | |_) / _ \ |_ / _ \ '__/ _ \ '_ \ / __/ _ \                 lW
+Mk.                  | |\  | |_| | | |  _ <  __/  _|  __/ | |  __/ | | | (__  __/                 '0
+Wl                   |_| \_|\__,_|_|_|_| \_\___|_|  \___|_|  \___|_| |_|\___\___|                 .d
 K,                                                                                                 c
-O.                                                                                                 ,
-k.                                                                                                 '
-x.                                                                                                 .
-k.                                                                                                 '
-O.                                                                                                 ,
+K,                            _____                    _   _                                       ,
+O.                           | ____|_  _____ ___ _ __ | |_(_) ___  _ __                            '
+k.                           |  _| \ \/ / __/ _ \ '_ \| __| |/ _ \| '_ \                           .
+O.                           | |___ >  < (__  __/ |_) | |_| | (_) | | | |                          '
+0'                           |_____/_/\_\___\___| .__/ \__|_|\___/|_| |_|                          ,
 0'                                                                                                 :
 Nc                                                                                                 o
 Mx.                                                                                               .O
@@ -48,4 +67,3 @@ MMMMMMMMMMMMMMMMMMMMMMMMWKkl;.                                         .;okXWMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMWKko:'.                               .,cdOXWMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNKOxoc:,'...          ....',:lok0XWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWXK0OkxdooooodxkO0KNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-
