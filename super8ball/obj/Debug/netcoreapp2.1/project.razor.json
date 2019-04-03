@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\jgali\\Dropbox\\CodingDojo\\csharp\\super8ball\\super8ball\\super8ball.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

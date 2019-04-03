@@ -1,0 +1,11 @@
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\bin\Debug\netcoreapp2.1\super8ball.deps.json
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\bin\Debug\netcoreapp2.1\super8ball.runtimeconfig.json
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\bin\Debug\netcoreapp2.1\super8ball.runtimeconfig.dev.json
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\bin\Debug\netcoreapp2.1\super8ball.dll
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\bin\Debug\netcoreapp2.1\super8ball.pdb
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\obj\Debug\netcoreapp2.1\super8ball.csprojAssemblyReference.cache
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\obj\Debug\netcoreapp2.1\super8ball.csproj.CoreCompileInputs.cache
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\obj\Debug\netcoreapp2.1\super8ball.AssemblyInfoInputs.cache
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\obj\Debug\netcoreapp2.1\super8ball.AssemblyInfo.cs
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\obj\Debug\netcoreapp2.1\super8ball.dll
+C:\Users\jgali\Dropbox\CodingDojo\csharp\super8ball\super8ball\obj\Debug\netcoreapp2.1\super8ball.pdb
