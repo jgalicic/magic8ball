@@ -681,23 +681,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jgali\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/rx/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jgali\\Dropbox\\CodingDojo\\csharp\\super8ball\\super8ball\\super8ball.csproj",
+      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/magic8ball/super8ball/super8ball.csproj",
       "projectName": "super8ball",
-      "projectPath": "C:\\Users\\jgali\\Dropbox\\CodingDojo\\csharp\\super8ball\\super8ball\\super8ball.csproj",
-      "packagesPath": "C:\\Users\\jgali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jgali\\Dropbox\\CodingDojo\\csharp\\super8ball\\super8ball\\obj\\",
+      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/magic8ball/super8ball/super8ball.csproj",
+      "packagesPath": "/Users/rx/.nuget/packages/",
+      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/lang_fund/magic8ball/super8ball/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jgali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/rx/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
